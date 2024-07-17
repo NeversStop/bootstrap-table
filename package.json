@@ -24,7 +24,7 @@
     "cspell": "^8.10.4",
     "cypress": "^13.13.0",
     "editorconfig-checker": "^5.1.8",
-    "eslint": "^8.57.0",
+    "eslint": "^9.7.0",
     "foreach-cli": "^1.8.1",
     "glob": "^11.0.0",
     "headr": "^0.0.4",
